@@ -26,14 +26,14 @@
 # Productivity and Debugging Tools 
     - https://buck.build/setup/getting_started.html 
     
-# Reactive Programminng 
+# Reactive Programming 
     - https://codeburst.io/rxswift-reactive-thinking-part-2-efb209237e6e
     
-# Build Time Improvement 
+# Build Time Improvement
     - https://medium.com/freelancer-engineering/modular-architecture-on-ios-and-how-i-decreased-build-time-by-50-23c7666c6d2f
     - https://flexiple.com/ios/xcode-build-optimization-a-definitive-guide/
     
-# CI/CD 
+# CI/CD Guidelines
     - https://github.com/tomzo/gocd-yaml-config-plugin
     
     
